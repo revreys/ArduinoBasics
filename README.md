@@ -37,16 +37,19 @@ Core behaviors:
 
 ---
 ## Hardware
+<div align="center">
 
-|         Component        |             Purpose            |
-|--------------------------|--------------------------------|
-| Arduino Uno              | Microcontroller / control unit |
+| Component | Purpose |
+|----------|--------|
+| Arduino Uno | Microcontroller / control unit |
 | 16×2 LCD (LiquidCrystal) | User interface & score display |
-| Push Buttons (2)         | Player input                   |
-| LEDs                     | System state indicators        |
-| Piezo Buzzer             | Audio feedback                 |
-| Resistors                | Current limiting               |
-| Breadboard + Jumpers     | Prototyping                    |
+| Push Buttons (2) | Player input |
+| LEDs | System state indicators |
+| Piezo Buzzer | Audio feedback |
+| Resistors | Current limiting |
+| Breadboard + Jumpers | Prototyping |
+
+</div>
 <p align="center">
   <img src="assets/images/breadboard2.jpg" width="550">
 </p>
