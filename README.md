@@ -136,16 +136,15 @@ This project demonstrates skills relevant to embedded and electrical engineering
 - using pull-up inputs
 - current limiting
 - debugging electrical issues
-
+<p align="center">
+  <img src="assets/images/breadboard2.jpg" width="550">
+</p>
 ### Firmware
 - digital I/O
 - timing control
 - state-based logic
 - handling asynchronous input
 - user interface logic
-<p align="center">
-  <img src="assets/images/breadboard2.jpg" width="550">
-</p>
 ---
 ### System Design
 The project follows a complete embedded control loop:
