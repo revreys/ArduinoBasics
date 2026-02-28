@@ -51,9 +51,6 @@ Core behaviors:
 
 </div>
 <p align="center">
-  <img src="assets/images/breadboard2.jpg" width="550">
-</p>
-<p align="center">
   <img src="assets/images/breadboard.jpg" width="550">
 </p>
 ---
@@ -144,7 +141,9 @@ This project demonstrates skills relevant to embedded and electrical engineering
 - state-based logic
 - handling asynchronous input
 - user interface logic
-
+<p align="center">
+  <img src="assets/images/breadboard2.jpg" width="550">
+</p>
 ---
 ### System Design
 The project follows a complete embedded control loop:
