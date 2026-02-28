@@ -1,4 +1,4 @@
-##Two-Player Reaction Time Project (Arduino)
+## Two-Player Reaction Time Project (Arduino)
 
 <p align="center">
   <img src="assets/gifs/demo.gif" width="650">
