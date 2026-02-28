@@ -37,6 +37,10 @@ Core behaviors:
 
 ---
 ## Hardware
+<p align="center">
+  <img src="assets/images/breadboard.jpg" width="550">
+</p>
+
 <div align="center">
 
 | Component | Purpose |
@@ -50,9 +54,7 @@ Core behaviors:
 | Breadboard + Jumpers | Prototyping |
 
 </div>
-<p align="center">
-  <img src="assets/images/breadboard.jpg" width="550">
-</p>
+
 ---
 ## System Operation
 
