@@ -1,0 +1,11 @@
+*.ino.with_bootloader.hex
+*.elf
+*.hex
+*.bin
+*.o
+*.a
+*.d
+*.eep
+*.log
+.vscode/
+build/
