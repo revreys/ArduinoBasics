@@ -73,7 +73,7 @@ Core behaviors:
 ## Wiring
 
 <p align="center">
-  <img src="assets/images/wiring.png" width="650">
+  <img src="assets/images/Wiring.png" width="650">
 </p>
 
 Important details:
@@ -161,9 +161,5 @@ INPUT -> PROCESS -> OUTPUT -> USER FEEDBACK -> RESET
 
 ---
 ##
+(holy yap)
 
-<<<<<<< HEAD
-(holy yap)
-=======
-(holy yap)
->>>>>>> ea66e58 (Initial commit: Reaction Time Embedded System project)
