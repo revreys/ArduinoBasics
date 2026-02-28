@@ -37,12 +37,6 @@ Core behaviors:
 
 ---
 ## Hardware
-<p align="center">
-  <img src="assets/images/breadboard2.jpg" width="550">
-</p>
-<p align="center">
-  <img src="assets/images/breadboard.jpg" width="550">
-</p>
 
 |         Component        |             Purpose            |
 |--------------------------|--------------------------------|
@@ -53,7 +47,12 @@ Core behaviors:
 | Piezo Buzzer             | Audio feedback                 |
 | Resistors                | Current limiting               |
 | Breadboard + Jumpers     | Prototyping                    |
-
+<p align="center">
+  <img src="assets/images/breadboard2.jpg" width="550">
+</p>
+<p align="center">
+  <img src="assets/images/breadboard.jpg" width="550">
+</p>
 ---
 ## System Operation
 
