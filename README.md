@@ -130,5 +130,5 @@ The project follows a complete embedded control loop:
 INPUT -> PROCESS -> OUTPUT -> USER FEEDBACK -> RESET
 
 ---
-(holy yap... x__x)
+(holy yap ik... x__x)
 
