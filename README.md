@@ -24,18 +24,6 @@ Core behaviors:
 - audiovisual feedback
 
 ---
-## Features
-
-- Two-player reaction competition
-- Random delay to prevent anticipation
-- Score tracking to 5 points
-- LCD scoreboard interface
-- Startup animation and sound
-- Victory melody with synchronized LED flashing
-- Replay prompt without reset
-- Button debounce handling
-
----
 ## Hardware
 <p align="center">
   <img src="assets/images/breadboard.jpg" width="550">
@@ -54,35 +42,24 @@ Core behaviors:
 | Breadboard + Jumpers | Prototyping |
 
 </div>
-
----
-## System Operation
-
-1. System initializes and displays welcome message
-2. Red and yellow LEDs signal an upcoming start
-3. A randomized delay occurs
-4. Green LED turns on (players may now press)
-5. First button press wins the round
-6. Score updates on LCD
-7. First player to 5 points wins the match
-8. System prompts replay
-
 ---
 
-## Wiring
+## Wiring Diagram
 
 <p align="center">
   <img src="assets/images/Wiring.png" width="650">
 </p>
 
-Important details:
-- Buttons use `INPUT_PULLUP` configuration
-- LCD runs in 4-bit parallel mode
-- Buzzer driven using PWM tone generation
-- LEDs controlled via digital output pins
+---
+## How to Run
+
+1. Follow the wiring diagram
+2. Clone the repository
+3. Open the `.ino` file in Arduino IDE
+4. Install `LiquidCrystal` (included with Arduino IDE)
+5. Upload to Arduino Uno
 
 ---
-
 ## Software Structure
 
 The program behaves as a **finite state machine** implemented inside the Arduino `loop()`.
@@ -105,8 +82,7 @@ The program behaves as a **finite state machine** implemented inside the Arduino
 ## Embedded Concepts Demonstrated
 
 ### Button Debouncing
-Mechanical switches produce multiple rapid signals when pressed.  
-Handled using a debounce delay to prevent false triggers.
+Mechanical switches produce multiple rapid signals when pressed, which is handled using a debounce delay to prevent false triggers.
 
 ### Real-Time Input Monitoring
 The microcontroller continuously checks hardware input pins and reacts immediately to user actions.
@@ -140,7 +116,7 @@ This project demonstrates skills relevant to embedded and electrical engineering
 <p align="center">
   <img src="assets/images/breadboard2.jpg" width="550">
 </p>
-
+meow
 ### Firmware
 - digital I/O
 - timing control
@@ -152,14 +128,6 @@ This project demonstrates skills relevant to embedded and electrical engineering
 The project follows a complete embedded control loop:
 
 INPUT -> PROCESS -> OUTPUT -> USER FEEDBACK -> RESET
-
----
-## How to Run
-
-1. Clone the repository
-2. Open the `.ino` file in Arduino IDE
-3. Install `LiquidCrystal` (included with Arduino IDE)
-4. Upload to Arduino Uno
 
 ---
 (holy yap)
