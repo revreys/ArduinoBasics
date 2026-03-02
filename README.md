@@ -116,7 +116,7 @@ This project demonstrates skills relevant to embedded and electrical engineering
 <p align="center">
   <img src="assets/images/breadboard2.jpg" width="550">
 </p>
-meow
+
 ### Firmware
 - digital I/O
 - timing control
@@ -130,5 +130,5 @@ The project follows a complete embedded control loop:
 INPUT -> PROCESS -> OUTPUT -> USER FEEDBACK -> RESET
 
 ---
-(holy yap)
+(holy yap... x__x)
 
